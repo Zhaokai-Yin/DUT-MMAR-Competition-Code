@@ -179,7 +179,9 @@ Common args (final pipeline):
 
 ---
 
-COPYRIGHT © 2025, Zhaokai Yin, Peng Hong  
-All Rights Reserved.  
-Licensed under the Ecplise Public License 2.0.
+<p align="center">
+COPYRIGHT © 2025, Zhaokai Yin, Peng Hong<br>
+All Rights Reserved.<br>
+Licensed under the Eclipse Public License 2.0.
+</p>
 
